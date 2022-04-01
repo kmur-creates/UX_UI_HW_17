@@ -1,0 +1,62 @@
+/* Typography Formatting */
+
+@font-face {
+    font-family: Nova;
+    src: url(/Font/NovaSquare-Regular.ttf);
+}
+.h1, .h2, .h3, .p{
+    color: white;
+}
+.h1{
+    font-family: Nova;
+    font-size: 96px;
+    margin-top: 240px;
+}
+.h2{
+    font-family: Nova;
+    font-size: 48px;
+}
+.h3{
+    font-family: Nova;
+    font-size: 36px;
+}
+.nav {
+    font-family: Nova;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin-left: 80px;
+    margin-top: 40px;
+    width: 600px;
+    justify-content: space-between;
+}
+.p{
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+}
+
+body{
+    background-image: radial-gradient(Circle, #191d1f,#151818);
+}
+
+#hero{
+    margin-left: 80px;
+}
+#herop{
+    margin-left: 80px;
+    margin-top: 16px;
+    width: 600px;
+    padding: 16px;
+}
+#heroimg{
+    background-image: url(/Images/Hero\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 610px;
+    transform: translate(20%,-75%);
+}
+
+.mywork{
+    margin-left: 80px;
+}
