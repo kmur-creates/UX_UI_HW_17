@@ -59,4 +59,30 @@ body{
 
 .mywork{
     margin-left: 80px;
+    position: absolute;
+    bottom: -225px;
+}
+
+.case1{
+    background-image: url(/Images/Frame\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    margin-bottom: 24px;  
+}
+
+.case2{
+    background-image: url(/Images/Frame\ 3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    margin-bottom: 24px;  
+}
+
+.case3{
+    background-image: url(/Images/Frame\ 4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    margin-bottom: 24px;  
 }
