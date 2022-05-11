@@ -79,7 +79,7 @@ body{
     padding: 16px;
 }
 #heroimg{
-    background-image: url(/Images/Hero\ Image.png);
+    background-image: url(/Images/HeroImage.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 610px;
@@ -93,7 +93,7 @@ body{
 }
 
 .case1{
-    background-image: url(/Images/Frame\ 2.png);
+    background-image: url(/Images/Frame2.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 600px;
@@ -101,7 +101,7 @@ body{
 }
 
 .case2{
-    background-image: url(/Images/Frame\ 3.png);
+    background-image: url(/Images/Frame3.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 600px;
@@ -109,7 +109,7 @@ body{
 }
 
 .case3{
-    background-image: url(/Images/Frame\ 4.png);
+    background-image: url(/Images/Frame4.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 600px;
